@@ -9,3 +9,4 @@ x =9
 x =4
 print(x)
 print(x +2)
+x =13
